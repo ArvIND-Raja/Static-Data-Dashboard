@@ -22,7 +22,7 @@ A data visualisation dashboard that helps analyse the behavior of avocado prices
 
 5. Install all the libraries present in the requirements.txt file by entering the following command in the command prompt.
     
-      $pip install -r requirements.txt
+      $pip install -r requirements.txt 
 
 6. Now that we have installed all the requisite libraries, let us run our application. Enter the following command in the prompt to start our server.
 
